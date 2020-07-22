@@ -1,0 +1,11 @@
+Test DEFINITIONS ::= BEGIN
+
+    Data ::= SEQUENCE {
+        id        INTEGER,
+        ipaddr    IA5String,
+	data	  IA5String
+
+    }
+END
+
+
