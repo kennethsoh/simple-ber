@@ -2,7 +2,7 @@ import asn1tools
 import os
 import sys
 import socket
-import json
+
 
 
 def decode(data):
