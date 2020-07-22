@@ -1,6 +1,5 @@
 import asn1tools
 import socket
-import argparse
 
 
 ipaddr = input("Enter Server's ip address: ")
