@@ -9,12 +9,12 @@ $ cd /simple-ber
 $ pip3 install asn1tools
 ```
 
-2. Run "server.py" on server PC
+2. Run "server.py" on receiver PC
 ```
 $ python3 server.py
 ```
 
-3. Run "client.py" on client PC
+3. Run "client.py" on sender PC
 ```
 $ python3 client.py
 ```
