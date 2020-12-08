@@ -1,7 +1,7 @@
 # simple_ber
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Simple ASN.1 Basic Encoder/Decoder across network
+Simple ASN.1 Basic Encoder/Decoder across network written in python
 
 #### How to use:
 1. Install project files and <a href="https://github.com/eerimoq/asn1tools">asn1tools</a>
